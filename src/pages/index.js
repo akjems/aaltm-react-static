@@ -16,7 +16,7 @@ export default () => (
                 <li>Chat with us on our <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
             </ul>
 
-            <img id="TMlogoWithDate" src="~/public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
+            <img id="TMlogoWithDate" src="./public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
             <hr />
 
             <h2>Past Meetings</h2>
@@ -28,8 +28,8 @@ export default () => (
                 <li>Time : 18:45 to 20:30</li>
                 <li>Chat with us on our <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> </li>
             </ul>
-            <img id="meetingPhoto" src="~/public/Oct2_2021_500px.jpg" alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
-            <img id="TMlogoWithDate" src="~/public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
+            <img id="meetingPhoto" src="./public/Oct2_2021_500px.jpg" alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
+            <img id="TMlogoWithDate" src="./public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
             <hr />
 
             <h4>Bond, James Bond : 21/10-2021</h4>
@@ -38,8 +38,8 @@ export default () => (
                 <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">Aalborg Hovedbiblioteket Rendsburggade 2, 9000 Aalborg</a></li>
                 <li>Time : 18:45 to 20:00</li>
             </ul>
-            <img id="meetingPhoto" src="~/public/AalborgTM_Meeting_Oct_500px.jpg" alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
-            <img id="TMlogoWithDate" src="~/public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
+            <img id="meetingPhoto" src="./public/AalborgTM_Meeting_Oct_500px.jpg" alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
+            <img id="TMlogoWithDate" src="./public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
 
        
   </div>

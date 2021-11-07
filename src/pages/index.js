@@ -7,7 +7,7 @@ export default () => (
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
         <h2>Next meeting : 18/11-2021</h2>
-        <ul style="list-style-type:none">
+        <ul>
 
             <li>Location : <a href="https://goo.gl/maps/TYKZEF1ueKu8FaAw6">International House Rantzausgade 4, 9000 Aalborg</a></li>
             <li>Online Access : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>

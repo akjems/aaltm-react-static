@@ -3,12 +3,11 @@
 }
 
 body {
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
-    Helvetica, Arial, 'Lucida Grande', sans-serif;
-  font-weight: 300;
-  font-size: 16px;
-  margin: 0;
-  padding: 0;
+    font-family: 'Montserrat', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -22,8 +21,8 @@ img {
 }
 
 nav {
-  width: 100%;
-  background: #108db8;
+    width: 100%;
+    background: #004165;
 }
 
 nav a {

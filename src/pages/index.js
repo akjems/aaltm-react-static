@@ -1,5 +1,5 @@
 import React from 'react'
-import TM_logo from './public/ColorLogoSince1924Navy_230px.jpg';
+import TM_logo from 'public/ColorLogoSince1924Navy_230px.jpg';
 
 
 export default () => (

@@ -1,0 +1,62 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "index.js",
+  "plugins": [
+    [
+      "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      {
+        "location": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\src\\pages"
+      }
+    ],
+    "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
+    "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
+    "C:\\Users\\akjem\\source\\repos\\react-static-aaltm"
+  ],
+  "paths": {
+    "ROOT": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm",
+    "SRC": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\src",
+    "DIST": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\dist",
+    "ASSETS": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\dist",
+    "PLUGINS": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\plugins",
+    "TEMP": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\tmp",
+    "ARTIFACTS": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\artifacts",
+    "PUBLIC": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\public",
+    "NODE_MODULES": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\node_modules",
+    "PACKAGE": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\package.json",
+    "HTML_TEMPLATE": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\dist\\index.html",
+    "STATIC_DATA": "C:\\Users\\akjem\\source\\repos\\react-static-aaltm\\dist\\staticData"
+  },
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}

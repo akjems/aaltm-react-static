@@ -1,3 +1,3 @@
-# React-Static - Basic Template
+# React-Static - AAL TM
 
-To use this template, run `react-static create` and use the `basic` template.
+Create created from the react-static basic template

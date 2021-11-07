@@ -1,4 +1,6 @@
 import React from 'react'
+import TM_logo from 'public/ColorLogoSince1924Navy_230px.jpg';
+
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
@@ -17,7 +19,7 @@ export default () => (
         </ul>
 
         <img src="public/Oct2_2021_500px.jpg" alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
-        <img src="public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
+        <img src={ TM_logo } alt="Toastmaster International Logo" />
         <hr />
        
   </div>

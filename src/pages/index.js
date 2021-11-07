@@ -24,7 +24,7 @@ export default () => (
         <img src={ TM_logo } alt="Toastmaster International Logo" />
         <hr />
         <h4>Auroura : 04/11-2021</h4>
-        <ul style="list-style-type:none">
+        <ul>
             <li>Host : Anna</li>
             <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">Aalborg Hovedbiblioteket Rendsburggade 2, 9000 Aalborg</a></li>
             <li>Time : 18:45 to 20:30</li>
@@ -35,15 +35,13 @@ export default () => (
         <hr />
 
         <h4>Bond, James Bond : 21/10-2021</h4>
-        <ul style="list-style-type:none">
+        <ul>
             <li>Host : Martina</li>
             <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">Aalborg Hovedbiblioteket Rendsburggade 2, 9000 Aalborg</a></li>
             <li>Time : 18:45 to 20:00</li>
         </ul>
         <img id="meetingPhoto" src={ meetingImageOct } alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
         <img id="TMlogoWithDate" src={TM_logo} alt="Toastmaster International Logo" />
-
-    </div>
 
        
   </div>

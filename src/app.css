@@ -35,3 +35,57 @@ nav a {
 .content {
   padding: 1rem;
 }
+
+
+/* For extremely small screen devices (599px and below) */
+@media only screen and (max-width: 599px) {
+    #meetingPhoto {
+        width: 300px;
+    }
+
+    #pastMeetingPhoto {
+        width: 200px;
+    }
+
+    #TMlogoWithDate {
+        width: 138px;
+    }
+}
+
+/* Small screen devices (600px and above) */
+@media only screen and (min-width: 600px) {
+    #meetingPhoto {
+        width: 400px;
+    }
+
+    #pastMeetingPhoto {
+        width: 325px;
+    }
+
+    #TMlogoWithDate {
+        width: 186px;
+    }
+}
+
+/* Medium screen devices (768px and above) */
+@media only screen and (min-width: 768px) {
+    #meetingPhoto {
+        width: 500px;
+    }
+
+    #pastMeetingPhoto {
+        width: 425px;
+    }
+
+    #TMlogoWithDate {
+        width: 230px;
+    }
+}
+
+/* Big screen devices (889px and above) */
+@media only screen and (min-width: 889px) {
+}
+
+/* Extra big screen devices (1200px and above) */
+@media only screen and (min-width: 1200px) {
+}

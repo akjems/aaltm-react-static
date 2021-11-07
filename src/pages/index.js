@@ -16,7 +16,7 @@ export default () => (
             <li>Chat with us on our <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
         </ul>
 
-        <img id="TMlogoWithDate" src="public/ColorLogoSince1924Navy_230px.jpg" alt="Toastmaster International Logo" />
+     
         <hr />
        
   </div>

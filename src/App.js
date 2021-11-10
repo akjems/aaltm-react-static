@@ -13,7 +13,8 @@ function App() {
   return (
     <Root>
       <nav>
-        <Link to="/">Home</Link>
+              <Link to="/">Home</Link>
+              <Link to="/about">About</Link>
       </nav>
       <div className="content">
         <React.Suspense fallback={<em>Loading...</em>}>

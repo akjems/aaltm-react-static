@@ -12,7 +12,7 @@ export default () => (
 
         <h2>Next meeting : 02/12-2021</h2>
         <ul>
-
+            <li>Host : Kennith</li>
             <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">Aalborg Hovedbiblioteket Rendsburggade 2, 9000 Aalborg</a></li>
             <li>Online Access : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
             <li>Doors Open : 18:30</li>

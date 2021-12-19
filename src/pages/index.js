@@ -12,7 +12,7 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-        <h2>Dansk Møde: 13/01-2022</h2>
+        <h2>Dansk Moede: 13/01-2022</h2>
         <ul>
             <li>Dagens Toastmaster : Martha</li>
 

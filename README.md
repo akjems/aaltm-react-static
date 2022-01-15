@@ -4,6 +4,10 @@ Create created from the react-static basic template
 
 Google Shared Work Doc https://docs.google.com/document/d/1qNp8DfgQ06ZACW3pHcDyToTmmRMaQmLGjwHAGDg0MtY/edit?usp=sharing
 
+## Technical ToDos
+
+* Danish letters not supported online. Find other font
+
 ## SEO work
 
 "public speaking skills"

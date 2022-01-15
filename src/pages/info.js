@@ -2,6 +2,7 @@ import React from 'react'
 
 export default () => (
     <div>
+        <h1>Practical Information</h1>
         <h2>Meeting Schedule and Locations for 2022 </h2>
         <p>Medborgerhuset is at the same address as Aalborg Central Library. The entrance is up the stairs across from the library entrance ramp. An elevator is available, through the sliding doors, across from the library entrance ramp.
         </p>

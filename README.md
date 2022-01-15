@@ -7,11 +7,16 @@ Google Shared Work Doc https://docs.google.com/document/d/1qNp8DfgQ06ZACW3pHcDyT
 The website is automatically with pushes to the main branch. 
 To build locally use 
 >npm run build
+
 >npm run start
 
 ## Technical ToDos
 
-* Danish letters not supported online. Find other font
+* Danish letters not supported.
+* Translate site to Danish
+* Style the Headings 
+* Put table in TM colors
+* Add a footer
 
 ## SEO work
 
@@ -33,8 +38,6 @@ To build locally use
 "what is public speaking"
 
 "Aalborg"
-
-Translate site to Danish
 
 Confidence
 friends

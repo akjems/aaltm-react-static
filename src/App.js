@@ -14,6 +14,7 @@ function App() {
     <Root>
       <nav>
               <Link to="/">Home</Link>
+              <Link to="/info">Practical Information</Link>
               <Link to="/about">About</Link>
       </nav>
       <div className="content">

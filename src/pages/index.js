@@ -19,7 +19,7 @@ export default () => (
 
             <li>Kom med online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
     
-            <li>Tid : fra 18:45 til 20:00</li>
+            <li>Tid : 18:45 til 20:00</li>
             <li>Chat med os <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> eller email info@aalborgtoastmasters.org</li>
         </ul>
 
@@ -35,6 +35,7 @@ export default () => (
 
         </ul>
         <img id="meetingPhoto" src={meeting112} alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
+        <img src={TM_logo} alt="Toastmaster International Logo" />
         <hr />
 
         <h4>Live Magic Show Special: 16/12-2021</h4>
@@ -43,8 +44,9 @@ export default () => (
             <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">Aalborg Hovedbiblioteket Rendsburggade 2, 9000 Aalborg</a></li>
             <li>Time : 18:45 to 20:00</li>
             <img id="meetingPhoto" src={meeting111} alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
-
+            <img src={TM_logo} alt="Toastmaster International Logo" />
         </ul>
+        <hr />
 
         <h4>Love Hybrid meeting : 02/12-2021</h4>
         <ul>
@@ -56,6 +58,7 @@ export default () => (
 
 
         <img src={TM_logo} alt="Toastmaster International Logo" />
+        <hr />
         <h4>TM Hybrid Meeting : 18/11-2021</h4>
         <ul>
 

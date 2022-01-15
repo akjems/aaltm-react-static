@@ -4,6 +4,11 @@ Create created from the react-static basic template
 
 Google Shared Work Doc https://docs.google.com/document/d/1qNp8DfgQ06ZACW3pHcDyToTmmRMaQmLGjwHAGDg0MtY/edit?usp=sharing
 
+The website is automatically with pushes to the main branch. 
+To build locally use 
+>npm run build
+>npm run start
+
 ## Technical ToDos
 
 * Danish letters not supported online. Find other font

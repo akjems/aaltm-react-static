@@ -17,6 +17,8 @@ To build locally use
 * Style the Headings 
 * Put table in TM colors
 * Add a footer
+* Add link to past newsletters
+* Make title tag sag Aalborg Toastmasters instead of URL
 
 ## SEO work
 

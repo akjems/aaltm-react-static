@@ -19,6 +19,7 @@ To build locally use
 * Add a footer
 * Add link to past newsletters
 * Make title tag sag Aalborg Toastmasters instead of URL
+* Implement React-Helmet
 
 ## SEO work
 
@@ -46,3 +47,9 @@ friends
 new in town
 community
 society
+
+fælleskab
+mød dankser
+venner
+støtte
+

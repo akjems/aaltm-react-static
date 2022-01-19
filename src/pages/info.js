@@ -83,11 +83,6 @@ export default () => (
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
-                <td>13/07-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
-            </tr>
-            <tr>
                 <td>30/06-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>

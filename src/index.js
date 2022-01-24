@@ -26,6 +26,7 @@ if (typeof document !== 'undefined') {
   }
 
   // Render!
+
   render(App)
 
   // Hot Module Replacement

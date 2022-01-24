@@ -13,14 +13,15 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-        <h2>Hybrid Meeting: 27/01-2022</h2>
+        <h2>Ultimate Stand-Up Comedy Workshop with Kriti  </h2>
+        <h3>Hybrid Meeting: 27/01-2022</h3>
         <ul>
-            <li>Toastmaster of the Day : Mystery</li>
+        
 
-            <li>Kom med online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
+            <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
     
-            <li>Tid : 18:45 til 20:00</li>
-            <li>Chat med os <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> eller email info@aalborgtoastmasters.org</li>
+            <li>Time : 18:30 - 20:00</li>
+            <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> eller email info@aalborgtoastmasters.org</li>
         </ul>
 
       

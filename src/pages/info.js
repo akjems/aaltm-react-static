@@ -1,12 +1,14 @@
 import React from 'react'
-
+var newLang = 'da';
+document.documentElement.lang = newLang;
 export default () => (
     <div>
         <h1>Practical Information</h1>
         <h2>Meeting Schedule and Locations for 2022 </h2>
         <p>Medborgerhuset is at the same address as Aalborg Central Library. The entrance is up the stairs across from the library entrance ramp. An elevator is available, through the sliding doors, across from the library entrance ramp.
         </p>
-        <p>Meetings are online-hybrid. Meaning some members join from the meeting location and others join online. The link to join online is available by contacting via the <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Toastmasters page</a>.</p>
+        <p>Meetings are online-hybrid. Meaning some members join from the meeting location and others join online.</p>
+        <p>The link to join online is available by contacting us via the <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Toastmasters page</a>.</p>
         <p>
             Doors open at 18:30 and the meeting is called to order at 18:45.
         </p>
@@ -24,67 +26,67 @@ export default () => (
         <tbody>
             <tr>
                 <td>13/01-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 3 - Medborgerhuset</a></td>
+                    <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 3 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>27/01-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 2 - Medborgerhuset</a></td>
+                    <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 2 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>10/02-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>24/02-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                    <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>10/03-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>24/03-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>07/04-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>21/04-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>05/05-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>19/05-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>02/06-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>16/06-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
             </tr>
             <tr>
                 <td>30/06-2022 18:30-20:00</td>
-                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Moedelokale 1 - Medborgerhuset</a></td>
+                <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                 <td>Microsoft Teams</td>
                 </tr>
                 </tbody>

@@ -12,12 +12,16 @@ addPrefetchExcludes(['dynamic'])
 
 function App() {
     return (
-
-    <Root>
+       
+        <Root>
+            <head>
+                <title>Aalborg Toastmasters</title>
+            </head>
       <nav>
               <Link to="/">Home</Link>
               <Link to="/info">Practical Information</Link>
-              <Link to="/about">About</Link>
+                <Link to="/about">About</Link>
+
       </nav>
       <div className="content">
         <React.Suspense fallback={<em>Loading...</em>}>

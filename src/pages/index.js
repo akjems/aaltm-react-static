@@ -6,6 +6,7 @@ import meetingImageNov from '../images/NovMeeting_500px.jpg'
 import meeting110 from '../images/110_500px.jpg'
 import meeting111 from '../images/111_500px.jpg'
 import meeting112 from '../images/112_480px.jpg'
+import meeting113 from '../images/113_480px.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
@@ -13,19 +14,32 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-        <h2>Ultimate Stand-Up Comedy Workshop with Kriti  </h2>
-        <h3>Hybrid Meeting: 27/01-2022</h3>
+        <h2>Butterfly Effect</h2>
+        <h3>Hybrid Meeting: 10/02-2022</h3>
         <ul>
         
-
+            <li>Host : Martha</li>
+            <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
             <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
     
-            <li>Time : 18:30 - 20:00</li>
+            <li>Time : 19:30 - 21:00</li>
             <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> eller email info@aalborgtoastmasters.org</li>
         </ul>
 
       
         <img src={ TM_logo } alt="Toastmaster International Logo" />
+        <hr />
+
+        <h4>Ultimate Stand-Up Comedy Workshop with Kriti: 27/01-2022</h4>
+        <ul>
+            <li>Dagens Toastmaster : Anna</li>
+            <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
+            <li>Tid : fra 18:45 til 20:00</li>
+
+        </ul>
+        <img id="meetingPhoto" src={meeting113} alt="Aalborg Toastmasters Meeting Photo" /><br /><br />
+        <img src={TM_logo} alt="Toastmaster International Logo" />
+
         <hr />
 
         <h4>Dansk Moede: 13/01-2022</h4>

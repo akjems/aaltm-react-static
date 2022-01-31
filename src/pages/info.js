@@ -37,7 +37,7 @@ export default () => (
             <tr>
                 <td>10/02-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                <td>Zoom</td>
             </tr>
             <tr>
                 <td>24/02-2022 18:30-20:00</td>
@@ -47,47 +47,47 @@ export default () => (
             <tr>
                 <td>10/03-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>24/03-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>07/04-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>21/04-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>05/05-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>19/05-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>02/06-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>16/06-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
             </tr>
             <tr>
                 <td>30/06-2022 18:30-20:00</td>
                 <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                <td>Microsoft Teams</td>
+                    <td>Zoom</td>
                 </tr>
                 </tbody>
         </table>

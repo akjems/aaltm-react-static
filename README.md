@@ -12,14 +12,12 @@ To build locally use
 
 ## Technical ToDos
 
-* Danish letters not supported.
+* Switch over to Hugo
 * Translate site to Danish
 * Style the Headings 
 * Put table in TM colors
 * Add a footer
 * Add link to past newsletters
-* Make title tag sag Aalborg Toastmasters instead of URL
-* Implement React-Helmet
 
 ## SEO work
 

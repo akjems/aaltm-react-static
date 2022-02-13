@@ -15,7 +15,7 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-        <h2>Club Internatial Speech Contest Competition</h2>
+        <h2>Club International Speech Contest Competition</h2>
         <h3>Hybrid Meeting: 24/02-2022</h3>
         <ul>
 

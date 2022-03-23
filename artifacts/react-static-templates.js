@@ -1,43 +1,14 @@
 
 
-import React from 'react'
-import universal, { setHasBabelPlugin } from 'react-universal-component'
-
-setHasBabelPlugin()
-
-const universalOptions = {
-  loading: () => null,
-  error: props => {
-    console.error(props.error);
-    return <div>An error occurred loading this page's template. More information is available in the console.</div>;
-  },
-  ignoreBabelRename: true
-}
-
-const t_0 = universal(import('__react_static_root__/src/pages/404.js'), universalOptions)
-      t_0.template = '__react_static_root__/src/pages/404.js'
-      
-const t_1 = universal(import('__react_static_root__/src/pages/about.js'), universalOptions)
-      t_1.template = '__react_static_root__/src/pages/about.js'
-      
-const t_2 = universal(import('__react_static_root__/src/pages/archive.js'), universalOptions)
-      t_2.template = '__react_static_root__/src/pages/archive.js'
-      
-const t_3 = universal(import('__react_static_root__/src/pages/index.js'), universalOptions)
-      t_3.template = '__react_static_root__/src/pages/index.js'
-      
-const t_4 = universal(import('__react_static_root__/src/pages/info.js'), universalOptions)
-      t_4.template = '__react_static_root__/src/pages/info.js'
-      
 
 // Template Map
 export default {
-  '__react_static_root__/src/pages/404.js': t_0,
-'__react_static_root__/src/pages/about.js': t_1,
-'__react_static_root__/src/pages/archive.js': t_2,
-'__react_static_root__/src/pages/index.js': t_3,
-'__react_static_root__/src/pages/info.js': t_4
+  '__react_static_root__/src/pages/404.js': require('__react_static_root__/src/pages/404.js').default,
+'__react_static_root__/src/pages/about.js': require('__react_static_root__/src/pages/about.js').default,
+'__react_static_root__/src/pages/archive.js': require('__react_static_root__/src/pages/archive.js').default,
+'__react_static_root__/src/pages/index.js': require('__react_static_root__/src/pages/index.js').default,
+'__react_static_root__/src/pages/info.js': require('__react_static_root__/src/pages/info.js').default
 }
-// Not Found Template
-export const notFoundTemplate = "__react_static_root__/src/pages/404.js"
+
+export const notFoundTemplate = '__react_static_root__/src/pages/404.js'
 

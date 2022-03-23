@@ -100,7 +100,7 @@ export default () => {
                     <tr>
                         <th>Starting Month</th>
                         <th>New member Fee (DKK)</th>
-                        <th>Returning member fee (DKK)</th>
+                        <th>Renewal member fee (DKK)</th>
 
                     </tr>
                 </thead>
@@ -108,62 +108,62 @@ export default () => {
                     <tr>
                         <td>April</td>
                         <td>460,00</td>
-                        <td>330,00</td>
+                        <td>375,00</td>
                     </tr>
                     <tr>
                         <td>May</td>
                         <td>410,00</td>
-                        <td>280,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>June</td>
                         <td>350,00</td>
-                        <td>220,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>July</td>
                         <td>300,00</td>
-                        <td>170,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>August</td>
                         <td>250,00</td>
-                        <td>120,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>September</td>
                         <td>530,00</td>
-                        <td>400,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>October</td>
                         <td>460,00</td>
-                        <td>330,00</td>
+                        <td>375,00</td>
                     </tr>
                     <tr>
                         <td>November</td>
                         <td>410,00</td>
-                        <td>280,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>December</td>
                         <td>350,00</td>
-                        <td>220,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>January</td>
                         <td>300,00</td>
-                        <td>170,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>February</td>
                         <td>250,00</td>
-                        <td>120,00</td>
+                        <td>--</td>
                     </tr>
                     <tr>
                         <td>March</td>
                         <td>530,00</td>
-                        <td>400,00</td>
+                        <td>--</td>
                     </tr>
                 </tbody>
             </table>

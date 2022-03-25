@@ -9,7 +9,7 @@ import meeting112 from '../images/112_480px.jpg'
 import meeting113 from '../images/113_480px.jpg'
 import meeting114 from '../images/114_500px.png'
 import meeting115 from '../images/115_500px.jpg'
-
+import meeting117 from '../images/117_500px.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
@@ -17,20 +17,31 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-<h2>The Idea</h2>
-<h3>Hybrid Meeting: 24/03-2022</h3>
+            <h2>Theme is coming up</h2>
+<h3>Hybrid Meeting: 07/04-2022</h3>
 <ul>
 
-            <li>Host : Anna</li>
+            <li>Host : Ali</li>
             <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
             <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
 
             <li>Time : 18:45 - 20:30</li>
-            <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> eller email info@aalborgtoastmasters.org</li>
- 
-
+            <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
 </ul>
 <hr/>
+
+
+         <h4>Idea</h4>
+        <ul>
+
+            <li>Host : Anna</li>
+            <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+<img id ="meetingPhoto" src={meeting117} alt="AAlborg Toastmasters Meeting photo"/><br/><br/> 
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
+        <hr />
         <h4>Asbjørn Jensen</h4>
         <ul>
 

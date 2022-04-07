@@ -57,37 +57,37 @@ export default () => {
                     </tr>
                     <tr>
                         <td>07/04-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen - Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>21/04-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset Vi Taler Dansk</a></td>
+                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House Vi taler dansk</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>05/05-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>19/05-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                      <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>02/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset Vi Taler Dansk</a></td>
+                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen - Medborgerhuset Vi Taler Dansk</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>16/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>30/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                 </tbody>

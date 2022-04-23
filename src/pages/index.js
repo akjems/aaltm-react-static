@@ -10,6 +10,8 @@ import meeting113 from '../images/113_480px.jpg'
 import meeting114 from '../images/114_500px.png'
 import meeting115 from '../images/115_500px.jpg'
 import meeting117 from '../images/117_500px.jpg'
+import meeting118 from '../images/118_500px.jpeg'
+import meeting119 from '../images/119_500px.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
@@ -18,11 +20,11 @@ export default () => (
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
             <h2>Theme is coming up</h2>
-<h3>Hybrid Meeting: 07/04-2022</h3>
+<h3>Hybrid Meeting: 05/05-2022</h3>
 <ul>
 
-            <li>Host : Ali</li>
-            <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
+            <li>Host : Coming Up</li>
+            <li>Location : <a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></li>
             <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
 
             <li>Time : 18:45 - 20:30</li>
@@ -30,7 +32,31 @@ export default () => (
 </ul>
 <hr/>
 
+<h4>You Are Awesome 21/04-2022</h4>
 
+        <ul>
+
+            <li>Host : Allen</li>
+            <li>Location : <a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+<img id ="meetingPhoto" src={meeting119} alt="Aalborg Toastmasters Meeting photo"/><br/><br/> 
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
+     
+     <hr />
+    <h4>TM Meeting 07/04-2022</h4>
+
+<ul>
+
+    <li>Host : Ali</li>
+    <li>Location : <a href="https://goo.gl/maps/K2xqk5F9JxpDrgFD7">M&#x00F8;delokale 1 - Medborgerhuset, 9000 Aalborg</a></li>
+    <li>Time : 18:45 - 20:30</li>
+</ul>
+<img id ="meetingPhoto" src={meeting118} alt="Aalborg Toastmasters Meeting photo"/><br/><br/> 
+
+<img src={TM_logo} alt="Toastmaster International Logo" />
+<hr />
          <h4>Idea</h4>
         <ul>
 

@@ -19,17 +19,29 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-            <h2>Theme is coming up</h2>
-<h3>Hybrid Meeting: 05/05-2022</h3>
+            <h2>Theme: Summer</h2>
+<h3>Hybrid Meeting: 19/05-2022</h3>
 <ul>
 
-            <li>Host : Coming Up</li>
+            <li>Host : Adam</li>
             <li>Location : <a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></li>
             <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
 
             <li>Time : 18:45 - 20:30</li>
             <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
 </ul>
+<hr/>
+
+<h4>You Are Awesome 05/05-2022</h4>
+
+        <ul>
+
+            <li>Host : Anna</li>
+            <li>Location : Online Only</li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
 <hr/>
 
 <h4>You Are Awesome 21/04-2022</h4>

@@ -10,8 +10,9 @@ import meeting113 from '../images/113_480px.jpg'
 import meeting114 from '../images/114_500px.png'
 import meeting115 from '../images/115_500px.jpg'
 import meeting117 from '../images/117_500px.jpg'
-import meeting118 from '../images/118_500px.jpeg'
+import meeting118 from '../images/118_500px.jpg'
 import meeting119 from '../images/119_500px.jpg'
+import meeting121 from '../images/121_500px.jpg'
 
 export default () => (
   <div style={{ textAlign: 'center' }}>
@@ -19,17 +20,30 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-            <h2>Theme: Summer</h2>
-<h3>Hybrid Meeting: 19/05-2022</h3>
+            <h2>Dansk møde</h2>
+<h3>Hybrid Meeting: 02/06-2022</h3>
 <ul>
 
-            <li>Host : Adam</li>
-            <li>Location : <a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></li>
+            <li>Host : Tommy</li>
+            <li>Location : <a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen </a></li>
             <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
 
             <li>Time : 18:45 - 20:30</li>
             <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
 </ul>
+<hr/>
+
+<h4>Summer 19/05-2022</h4>
+
+        <ul>
+
+            <li>Host : Adam</li>
+            <li>Location : International House</li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+        <img id ="meetingPhoto" src={meeting121} alt="Aalborg Toastmasters Meeting photo"/><br/><br/> 
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
 <hr/>
 
 <h4>You Are Awesome 05/05-2022</h4>

@@ -46,8 +46,12 @@ new in town
 community
 society
 
-fælleskab
-mød dankser
+fï¿½lleskab
+mï¿½d dankser
 venner
-støtte
+stï¿½tte
+
+## Local Setup
+Install node js
+run npm install
 

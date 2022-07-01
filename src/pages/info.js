@@ -27,42 +27,42 @@ export default () => {
                 <tbody>
                     <tr>
                         <td>11/08-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 3 - Medborgerhuset</a></td>
-                        <td>Microsoft Teams</td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                        <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>25/08-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 2 - Medborgerhuset</a></td>
-                        <td>Microsoft Teams</td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                        <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>08/09-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>22/09-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
-                        <td>Microsoft Teams</td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                        <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>06/10-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset Vi Taler Dansk</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>20/10-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>03/11-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen - Medborgerhuset</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>17/11-2022 18:30-20:00</td>
-                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House Vi taler dansk</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
@@ -77,7 +77,7 @@ export default () => {
                     </tr>
                     <tr>
                         <td>02/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen - Medborgerhuset Vi Taler Dansk</a></td>
+                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>

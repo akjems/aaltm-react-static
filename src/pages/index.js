@@ -20,18 +20,45 @@ export default () => (
             <h1>Aalborg Toastmasters</h1>
             <p>Learn about <a href="https://www.toastmasters.org/">Toastmasters International</a></p>
 
-            <h2>Dansk møde</h2>
-<h3>Hybrid Meeting: 02/06-2022</h3>
+         
+<h2>We're back after Summer Break</h2>
+<h3>Hybrid Meeting: 11/08-2022</h3>
 <ul>
 
-            <li>Host : Tommy</li>
-            <li>Location : <a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen </a></li>
-            <li>Join us online : <a href="https://tmclub.eu/portal.php?marknow=0">Tmclub.eu</a></li>
+            <li>Host : Martha</li>
+            <li>Location : <a href="https://goo.gl/maps/xgUthSJcXtaQUA6y5">International House</a></li>
+     
 
             <li>Time : 18:45 - 20:30</li>
             <li>Chat with us <a href="https://www.facebook.com/ToastmastersAalborg">Facebook Page</a> or email info@aalborgtoastmasters.org</li>
 </ul>
 <hr/>
+
+<h4>Panel Discussion 30/06-2022</h4>
+
+        <ul>
+
+            <li>Host : Martina</li>
+            <li>Location : <a href="https://goo.gl/maps/xgUthSJcXtaQUA6y5">International House </a></li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
+
+        <hr/>
+
+<h4>Dansk møde 02/06-2022</h4>
+
+        <ul>
+
+            <li>Host : Tommy</li>
+            <li>Location : <a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen </a></li>
+            <li>Time : 18:45 - 20:30</li>
+        </ul>
+
+        <img src={TM_logo} alt="Toastmaster International Logo" />
+
+        <hr/>
 
 <h4>Summer 19/05-2022</h4>
 

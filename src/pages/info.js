@@ -75,21 +75,6 @@ export default () => {
                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
-                    <tr>
-                        <td>02/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
-                        <td>Zoom</td>
-                    </tr>
-                    <tr>
-                        <td>16/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
-                        <td>Zoom</td>
-                    </tr>
-                    <tr>
-                        <td>30/06-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
-                        <td>Zoom</td>
-                    </tr>
                 </tbody>
             </table>
             <h2>Membership Fees</h2>

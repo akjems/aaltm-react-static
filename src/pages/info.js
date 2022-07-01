@@ -26,52 +26,52 @@ export default () => {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>13/01-2022 18:30-20:00</td>
+                        <td>11/08-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 3 - Medborgerhuset</a></td>
                         <td>Microsoft Teams</td>
                     </tr>
                     <tr>
-                        <td>27/01-2022 18:30-20:00</td>
+                        <td>25/08-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 2 - Medborgerhuset</a></td>
                         <td>Microsoft Teams</td>
                     </tr>
                     <tr>
-                        <td>10/02-2022 19:30-21:00</td>
+                        <td>08/09-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>24/02-2022 18:30-20:00</td>
+                        <td>22/09-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                         <td>Microsoft Teams</td>
                     </tr>
                     <tr>
-                        <td>10/03-2022 18:30-20:00</td>
+                        <td>06/10-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset Vi Taler Dansk</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>24/03-2022 18:30-20:00</td>
+                        <td>20/10-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">M&#x00F8;delokale 1 - Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>07/04-2022 18:30-20:00</td>
+                        <td>03/11-2022 18:30-20:00</td>
                         <td><a href="https://goo.gl/maps/D92Fic4cMDDUgECD6">Fordragssalen - Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>21/04-2022 18:30-20:00</td>
+                        <td>17/11-2022 18:30-20:00</td>
                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House Vi taler dansk</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>05/05-2022 18:30-20:00</td>
+                        <td>01/12-2022 18:30-20:00</td>
                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
-                        <td>19/05-2022 18:30-20:00</td>
+                        <td>15/12-2022 18:30-20:00</td>
                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
                         <td>Zoom</td>
                     </tr>

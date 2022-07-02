@@ -57,22 +57,22 @@ export default () => {
                     </tr>
                     <tr>
                         <td>03/11-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                        <td><a href="https://goo.gl/maps/G2c5HfbSZvm2ikvN6">Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>17/11-2022 18:30-20:00</td>
-                        <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                        <td><a href="https://goo.gl/maps/G2c5HfbSZvm2ikvN6">Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>01/12-2022 18:30-20:00</td>
-                       <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                       <td><a href="https://goo.gl/maps/G2c5HfbSZvm2ikvN6">Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>15/12-2022 18:30-20:00</td>
-                      <td><a href="https://goo.gl/maps/mcds1HFM3zd4Hg1X7">International House</a></td>
+                      <td><a href="https://goo.gl/maps/G2c5HfbSZvm2ikvN6">Medborgerhuset</a></td>
                         <td>Zoom</td>
                     </tr>
                 </tbody>
